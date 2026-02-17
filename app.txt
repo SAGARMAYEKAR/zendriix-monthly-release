@@ -1,0 +1,3 @@
+Zendriix Application
+Version 1.0
+Monthly Release: 25th
