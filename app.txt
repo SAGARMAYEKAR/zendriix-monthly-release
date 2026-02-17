@@ -1,3 +1,6 @@
 Zendriix Application
 Version 1.0
 Monthly Release: 25th
+Zendriix Application
+Version 1.1 - February Release
+Release Date: 25-02-2026
